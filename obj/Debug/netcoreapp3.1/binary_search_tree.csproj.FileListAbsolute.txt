@@ -1,0 +1,13 @@
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\obj\Debug\netcoreapp3.1\binary_search_tree.csprojAssemblyReference.cache
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\obj\Debug\netcoreapp3.1\binary_search_tree.AssemblyInfoInputs.cache
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\obj\Debug\netcoreapp3.1\binary_search_tree.AssemblyInfo.cs
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\obj\Debug\netcoreapp3.1\binary_search_tree.csproj.CoreCompileInputs.cache
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\bin\Debug\netcoreapp3.1\binary_search_tree.exe
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\bin\Debug\netcoreapp3.1\binary_search_tree.deps.json
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\bin\Debug\netcoreapp3.1\binary_search_tree.runtimeconfig.json
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\bin\Debug\netcoreapp3.1\binary_search_tree.runtimeconfig.dev.json
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\bin\Debug\netcoreapp3.1\binary_search_tree.dll
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\bin\Debug\netcoreapp3.1\binary_search_tree.pdb
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\obj\Debug\netcoreapp3.1\binary_search_tree.dll
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\obj\Debug\netcoreapp3.1\binary_search_tree.pdb
+C:\Users\Travis\source\repos\binary_search_tree\binary_search_tree\obj\Debug\netcoreapp3.1\binary_search_tree.genruntimeconfig.cache
